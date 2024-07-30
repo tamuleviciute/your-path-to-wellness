@@ -13,6 +13,7 @@ body {
     flex-direction: column;
     min-height: 100%;
     font-family: "Rosarivo", cursive;
+    
 }
 /* Header */
 .hero-image {
@@ -30,3 +31,21 @@ body {
     font-size: 20px;
     letter-spacing: 3px;
 }
+/* Navigation bar */
+.navbar {
+    width: 100%;
+    background-color: rgba(149, 165, 166);, 1;
+    padding: 10px;
+    overflow: auto;
+}
+.navbar a {
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+    float: left;
+}
+.navbar a:hover {
+    color: #ffffff;
+}
+
