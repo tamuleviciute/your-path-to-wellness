@@ -1,0 +1,16 @@
+/* Google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Rosarivo&display=swap');
+
+/* Override default styles set by the browser*/
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+    background-color: aqua;
+    font-family: "Rosarivo", cursive;
+}
