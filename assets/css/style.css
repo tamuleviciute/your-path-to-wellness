@@ -48,10 +48,12 @@ body {
     color: black;
     font-size: 15px;
     float: left;
+    text-transform: uppercase;
 }
 
 .fa-solid {
     padding: 8px;
+    color: rgb(34, 139, 34);
 }
 
 .navbar a:hover {
@@ -85,6 +87,6 @@ footer {
 }
 
 #social-networks i {
-    color: black;
+    color: rgb(34, 139, 34);
     font-size: 20px;
 }
