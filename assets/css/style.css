@@ -70,7 +70,42 @@ hr {
     border: 1px solid green;
 }
 .main {
-    padding: 30px;
+    padding: 20px;
+}
+h2 {
+    text-align: center;
+}
+/* Diet page */
+#food {
+    float: right;
+    width: 150px;
+    border: 1px solid gray;
+    margin: 3px 3px 3px 0;
+    border-radius: 5px;
+}
+#kiwi {
+    float: left;
+    width: 150px;
+    border: 1px solid gray;
+    margin: 3px 3px 3px 0;
+    border-radius: 5px;
+}
+#celery {
+    text-align: right;
+}
+#juice {
+    float: right;
+    width: 150px;
+    border: 1px solid grey;
+    margin: 3px 3px 3px 0;
+    border-radius: 5px;
+}
+#lemons {
+    float: left;
+    width: 150px;
+    border: 1px solid grey;
+    margin: 3px 3px 3px 0;
+    border-radius: 5px;
 }
 
 /* Footer */
