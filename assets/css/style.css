@@ -66,98 +66,28 @@ main {
     flex-direction: column;
     flex: 1 0 auto;
 }
+
 hr {
     border: 1px solid green;
 }
+
 .main {
     padding: 20px;
 }
+
 h2 {
     text-align: center;
 }
-/* Diet page */
-#food {
+
+/* Meditation page */
+#meditating {
     float: right;
     width: 150px;
     border: 1px solid gray;
     margin: 3px 3px 3px 0;
     border-radius: 5px;
-}
-#kiwi {
-    float: left;
-    width: 150px;
-    border: 1px solid gray;
-    margin: 3px 3px 3px 0;
-    border-radius: 5px;
-}
-#celery-text {
-    text-align: right;
-}
-#juice {
-    float: right;
-    width: 150px;
-    border: 1px solid grey;
-    margin: 3px 3px 3px 0;
-    border-radius: 5px;
-}
-#lemons {
-    float: left;
-    width: 150px;
-    border: 1px solid grey;
-    margin: 3px 3px 3px 0;
-    border-radius: 5px;
-}
-/* Breathing page */
-#stones {
-    float: right;
-    width: 150px;
-    border: 1px solid grey;
-    margin: 3px 3px 3px 0;
-    border-radius: 5px;
-}
-#wind {
-    float: left;
-    width: 150px;
-    border: 1px solid grey;
-    margin: 3px 3px 3px 0;
-    border-radius: 5px;
-}
-#box {
-    text-align: right;
-}
-#sky {
-    float: right;
-    width: 150px;
-    border: 1px solid grey;
-    margin: 3px 3px 3px 0;
-    border-radius: 5px;
-}
-#clouds {
-    float: left;
-    width: 150px;
-    border: 1px solid grey;
-    margin: 3px 3px 3px 0;
-    border-radius: 5px;
-}
-/* Cold page */
-ul {
-    list-style-type: none;
 }
 
-#sea {
-    float: right;
-    width: 150px;
-    border: 1px solid grey;
-    margin: 3px 3px 3px 0;
-    border-radius: 5px;
-}
-#woman {
-    float: left;
-    width: 150px;
-    border: 1px solid grey;
-    margin: 3px 3px 3px 0;
-    border-radius: 5px;
-}
 /* Activity page */
 #exercise {
     float: right;
@@ -166,6 +96,7 @@ ul {
     margin: 3px 3px 3px 0;
     border-radius: 5px;
 }
+
 #pilates {
     float: left;
     width: 150px;
@@ -173,9 +104,11 @@ ul {
     margin: 3px 3px 3px 0;
     border-radius: 5px;
 }
+
 #yoga-text {
     text-align: right;
 }
+
 #yoga {
     float: right;
     width: 150px;
@@ -191,9 +124,11 @@ ul {
     margin: 3px 3px 3px 0;
     border-radius: 5px;
 }
+
 #weight-text {
     text-align: right;
 }
+
 #weight {
     float: right;
     width: 150px;
@@ -201,7 +136,103 @@ ul {
     margin: 3px 3px 3px 0;
     border-radius: 5px;
 }
+
 #walk {
+    float: left;
+    width: 150px;
+    border: 1px solid grey;
+    margin: 3px 3px 3px 0;
+    border-radius: 5px;
+}
+
+/* Diet page */
+#food {
+    float: right;
+    width: 150px;
+    border: 1px solid gray;
+    margin: 3px 3px 3px 0;
+    border-radius: 5px;
+}
+
+#kiwi {
+    float: left;
+    width: 150px;
+    border: 1px solid gray;
+    margin: 3px 3px 3px 0;
+    border-radius: 5px;
+}
+
+#celery-text {
+    text-align: right;
+}
+
+#juice {
+    float: right;
+    width: 150px;
+    border: 1px solid grey;
+    margin: 3px 3px 3px 0;
+    border-radius: 5px;
+}
+
+#lemons {
+    float: left;
+    width: 150px;
+    border: 1px solid grey;
+    margin: 3px 3px 3px 0;
+    border-radius: 5px;
+}
+
+/* Cold page */
+ul {
+    list-style-type: none;
+}
+
+#sea {
+    float: right;
+    width: 150px;
+    border: 1px solid grey;
+    margin: 3px 3px 3px 0;
+    border-radius: 5px;
+}
+
+#woman {
+    float: left;
+    width: 150px;
+    border: 1px solid grey;
+    margin: 3px 3px 3px 0;
+    border-radius: 5px;
+}
+
+/* Breathing page */
+#stones {
+    float: right;
+    width: 150px;
+    border: 1px solid grey;
+    margin: 3px 3px 3px 0;
+    border-radius: 5px;
+}
+
+#wind {
+    float: left;
+    width: 150px;
+    border: 1px solid grey;
+    margin: 3px 3px 3px 0;
+    border-radius: 5px;
+}
+
+#box {
+    text-align: right;
+}
+
+#sky {
+    float: right;
+    width: 150px;
+    border: 1px solid grey;
+    margin: 3px 3px 3px 0;
+    border-radius: 5px;
+}
+
+#clouds {
     float: left;
     width: 150px;
     border: 1px solid grey;
