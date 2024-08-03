@@ -109,28 +109,31 @@ h2 {
 }
 /* Breathing page */
 #stones {
-    float: left;
+    float: right;
     width: 150px;
     border: 1px solid grey;
     margin: 3px 3px 3px 0;
     border-radius: 5px;
 }
 #wind {
-    float: right;
-    width: 150px;
-    border: 1px solid grey;
-    margin: 3px 3px 3px 0;
-    border-radius: 5px;
-}
-#sky {
     float: left;
     width: 150px;
     border: 1px solid grey;
     margin: 3px 3px 3px 0;
     border-radius: 5px;
 }
-#clouds {
+#box {
+    text-align: right;
+}
+#sky {
     float: right;
+    width: 150px;
+    border: 1px solid grey;
+    margin: 3px 3px 3px 0;
+    border-radius: 5px;
+}
+#clouds {
+    float: left;
     width: 150px;
     border: 1px solid grey;
     margin: 3px 3px 3px 0;
