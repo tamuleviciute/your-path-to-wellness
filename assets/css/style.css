@@ -107,6 +107,35 @@ h2 {
     margin: 3px 3px 3px 0;
     border-radius: 5px;
 }
+/* Breathing page */
+#stones {
+    float: left;
+    width: 150px;
+    border: 1px solid grey;
+    margin: 3px 3px 3px 0;
+    border-radius: 5px;
+}
+#wind {
+    float: right;
+    width: 150px;
+    border: 1px solid grey;
+    margin: 3px 3px 3px 0;
+    border-radius: 5px;
+}
+#sky {
+    float: left;
+    width: 150px;
+    border: 1px solid grey;
+    margin: 3px 3px 3px 0;
+    border-radius: 5px;
+}
+#clouds {
+    float: right;
+    width: 150px;
+    border: 1px solid grey;
+    margin: 3px 3px 3px 0;
+    border-radius: 5px;
+}
 
 /* Footer */
 footer {
