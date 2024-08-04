@@ -79,6 +79,10 @@ hr {
 h2 {
     text-align: center;
 }
+a {
+    text-decoration: none;
+    color: darkgreen;
+}
 /* Home page */ 
 .h3-text {
     text-align: center;
