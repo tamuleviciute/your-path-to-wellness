@@ -78,6 +78,11 @@ hr {
 h2 {
     text-align: center;
 }
+/* Home page */ 
+.h3-text {
+    text-align: center;
+    
+}
 
 /* Meditation page */
 #meditating {
