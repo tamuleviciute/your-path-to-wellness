@@ -282,3 +282,9 @@ footer {
         text-align: right;
     }
 }
+/* Media query for large devices (992px and up)*/
+@media screen (min-width: 992px) {
+    img {
+        display: inline;
+    }
+}
