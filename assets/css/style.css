@@ -265,3 +265,13 @@ footer {
     font-size: 20px;
     padding: 10px;
 }
+/* Media query for medium devices (768px and up)*/
+@media only screen and (min-width: 768px) {
+    .image-possition {
+        height: 250px;
+    }
+    .center {
+        text-align: right;
+    }
+}
+    
