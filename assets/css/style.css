@@ -82,9 +82,16 @@ h2 {
 
 a {
     text-decoration: none;
-    color: darkgreen;
+    color: rgb(34, 139, 34);
 }
-
+ul {
+    padding-inline: 30px;
+    margin: auto;
+}
+b {
+    color: rgb(34, 139, 34);
+    text-decoration: underline;
+}
 /* Home page */
 .h3-text {
     text-align: center;
@@ -273,18 +280,12 @@ footer {
 }
 
 /* Media query for medium devices (768px and up)*/
-@media screen (min-width: 768px) {
+@media screen and (min-width: 768px) {
     .image-position {
         height: 250px;
     }
 
     .center {
         text-align: right;
-    }
-}
-/* Media query for large devices (992px and up)*/
-@media screen (min-width: 992px) {
-    img {
-        display: inline;
     }
 }
