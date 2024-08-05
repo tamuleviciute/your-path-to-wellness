@@ -261,22 +261,13 @@ ul {
 #center {
     text-align: center;
 }
-.container {
-    display: flex;
-}
-.container > div {
-    width: 50%;
-}
 input {
     border: 2px solid green;
     box-sizing: border-box;
 }
-#subscribe-list {
-    padding-top: 20px;
-    padding-left: 250px;
-}
+
 #subscribe-form {
-    padding-left: 310px;
+    padding-left: 40px;
 }
 #button {
     width: 70px;
@@ -319,3 +310,5 @@ footer {
         text-align: right;
     }
 }
+
+    
