@@ -40,9 +40,13 @@
 
 * Subscribe Page. The Subscribe Page invites users to join the newsletter for exclusive wellness tips, guided exercises, healthy recipes, and special offers. It helps users stay updated with the latest content and benefits.
 
+![Subscribe page](/media/Screenshot%202024-08-05%20at%2011.23.17.png)
+
 4. Footer
 
 * The footer section includes links to the social media sites of this Wellness Page. The links will open to a new tab.
+
+![Footer](/media/Screenshot%202024-08-05%20at%2011.25.06.png)
 
 ## Testing
 
