@@ -257,6 +257,13 @@ ul {
     margin: 3px 3px 3px 0;
     border-radius: 5px;
 }
+/* Subscribe page*/
+input {
+    border-color: green;
+}
+#subscribe-form {
+    padding: 50px;
+}
 
 /* Footer */
 footer {
