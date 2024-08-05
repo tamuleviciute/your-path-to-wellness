@@ -30,13 +30,19 @@
 
 * Activity Page. The Activity page describes a range of physical exercises and activities designed to enhance fitness and overall health.
 
+![Activity page](/media/Screenshot%202024-08-05%20at%2012.21.21.png)
+
 * Diet Page. The Diet page features nutritional advice, and dietary tips to support a balanced and healthy lifestyle. It provides information on the benefits of different diets.
+
+![Diet page](/media/Screenshot%202024-08-05%20at%2012.22.15.png)
 
 * Cold Exposure Page. The Cold Exposure page explores the benefits of cold therapy, including techniques such as cold showers and ice baths. It discusses the health advantages and provides links to external pages.
 
 ![Cold page](/media/Screenshot%202024-08-05%20at%2009.53.40.png)
 
 * Breathing Page. The Breathing page offers information and video tutorials on various breathing exercises. These exercises aim to help users manage stress, improve mental clarity, and enhance overall well-being through mindful breathing practices.
+
+![Breathing page](/media/Screenshot%202024-08-05%20at%2012.22.57.png)
 
 * Subscribe Page. The Subscribe Page invites users to join the newsletter for exclusive wellness tips, guided exercises, healthy recipes, and special offers. It helps users stay updated with the latest content and benefits.
 
@@ -58,6 +64,8 @@
 ## Bugs
 
 * When I deployed my project to GitHub pages I discovered that my project had some broken external links, images links, they did not work. Also found some html code mistakes.
+
+![Mistakes](/media/Screenshot%202024-08-04%20at%2022.02.09.png)
 
 * Fixed the broken links and code mistakes.
 
