@@ -70,9 +70,10 @@
 ## Deployment
 
 * The site was deployed to GitHub pages. The steps to deploy are:
-  1. In the GitHub repository choose Settings tab.
-  2. From the left drop down menu select Pages.
-  3. When selected Main branch and Save, the page provided the link to the completed webpage.
+  - In the GitHub repository choose Settings tab.
+  - From the left drop down menu select Pages.
+  - When selected Main branch and Save, the page provided the link to the completed webpage.
+
   The link is here [Your Path to Wellness](https://tamuleviciute.github.io/your-path-to-wellness/)
 
 ## Credits 
