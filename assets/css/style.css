@@ -269,7 +269,7 @@ input {
 #subscribe-form {
     padding-left: 40px;
 }
-#button {
+.button {
     width: 70px;
     height: 20px;
     border-radius: 5px;
@@ -321,6 +321,19 @@ footer {
 }
 /* Media query for large devices (992px and up)*/
 @media screen and (min-width: 992px) {
+#leg-image {
+    padding-bottom: 110px;
+}
+#reformer-image {
+    padding-bottom: 50px;
+}
+#salad-image {
+    padding-bottom: 85px;
+}
+#scarf-image {
+    padding-bottom: 60px;
+}
+
 /* Subscribe page */
     #center {
         text-align: center;
@@ -342,7 +355,7 @@ footer {
     #subscribe-form {
         padding-left: 310px;
     }
-    #button {
+    .button {
         width: 70px;
         height: 20px;
         border-radius: 5px;
