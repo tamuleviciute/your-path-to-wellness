@@ -2,7 +2,7 @@
 
 "Your Path to Wellness" is a comprehensive web application designed to guide users towards a healthier and more balanced life. The website focuses on providing valuable resources and information on mindful breathing techniques, nutrition, and holistic self-care practices.
 
-! [Responcive Mockup] (https://ui.dev/amiresponsive?url=https://tamuleviciute.github.io/your-path-to-wellness/index.html)
+! [Responcive Mockup] ()
 
 ## Features
 
