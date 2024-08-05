@@ -308,6 +308,16 @@ footer {
     .center {
         text-align: right;
     }
+/* Subscribe page */
+.container {
+    display: flex;
+}
+.container > div {
+    width: 50%;
+}
+#subscribe-form {
+    padding-left: 180px;
+}
 }
 /* Media query for large devices (992px and up)*/
 @media screen and (min-width: 992px) {
