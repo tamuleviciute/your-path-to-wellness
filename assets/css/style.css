@@ -258,12 +258,35 @@ ul {
     border-radius: 5px;
 }
 /* Subscribe page*/
+#center {
+    text-align: center;
+}
+.container {
+    display: flex;
+}
+.container > div {
+    width: 50%;
+}
 input {
-    border-color: green;
+    border: 2px solid green;
+    box-sizing: border-box;
+}
+#subscribe-list {
+    padding-top: 20px;
+    padding-left: 250px;
 }
 #subscribe-form {
-    padding: 50px;
+    padding-left: 310px;
 }
+#button {
+    width: 70px;
+    height: 20px;
+    border-radius: 5px;
+    margin-top: 5px;
+    background-color:rgb(34, 139, 34);
+    color: #ffffff;
+}
+
 
 /* Footer */
 footer {
